@@ -11,7 +11,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/example/repo
+    repoURL: https://github.com/phanik29/apollo-operator-demo1
     path: apps
     targetRevision: main
   destination:

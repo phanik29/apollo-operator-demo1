@@ -7,7 +7,7 @@ spec:
   project: default
   source:
     path: reviews
-    repoURL: https://github.com/example/repo
+    repoURL: https://github.com/phanik29/apollo-operator-demo1
     directory:
       include: "*.yaml"
   destination:
